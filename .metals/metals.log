@@ -1,0 +1,249 @@
+2026.02.04 23:41:36 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot' for client Visual Studio Code 1.108.2.
+2026.02.04 23:41:36 INFO  Memory monitor started
+2026.02.04 23:41:37 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.04 23:41:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:41:41 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:41:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:41:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:41:43 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java
+2026.02.04 23:41:43 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:45:13 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:13 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java
+2026.02.04 23:45:13 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:18 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:18 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:18 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:20 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:20 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:23 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:25 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:28 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:29 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:31 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:31 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:32 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:32 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:32 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:33 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:39 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:45:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:46:17 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java
+2026.02.04 23:46:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:19 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:19 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:21 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:21 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:22 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:27 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:29 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:46:31 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:31 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java
+2026.02.04 23:46:31 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+Feb 04, 2026 11:46:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 87
+2026.02.04 23:46:34 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:34 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+Feb 04, 2026 11:46:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 99
+2026.02.04 23:46:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+Feb 04, 2026 11:46:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+2026.02.04 23:46:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:43 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:44 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:44 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:44 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:44 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:44 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:44 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:45 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:45 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:47 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:47 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:48 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:48 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:49 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:49 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:49 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:51 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:51 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:51 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:51 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:52 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:52 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:52 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:52 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:54 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:54 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+Feb 04, 2026 11:46:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+2026.02.04 23:46:54 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:54 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:55 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:55 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:55 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:57 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:57 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:57 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:58 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:58 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:58 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:58 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:46:58 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:47:00 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:47:02 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java
+2026.02.04 23:47:02 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:47:04 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java
+2026.02.04 23:47:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:05 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:08 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:08 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:08 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:09 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:09 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:09 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+Feb 04, 2026 11:47:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 201
+2026.02.04 23:47:11 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:11 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:11 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:12 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:12 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:12 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:12 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:13 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:13 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:14 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:14 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:14 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:14 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:15 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:21 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:21 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:21 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:21 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:22 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java
+2026.02.04 23:47:22 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:24 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:32 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:47:45 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java
+2026.02.04 23:47:45 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:48:33 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:48:37 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java
+2026.02.04 23:48:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:37 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:41 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:41 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:41 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:41 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:52 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:48:52 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:10 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:13 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:16 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:17 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:25 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:49:25 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:51:19 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:51:19 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:51:23 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:51:23 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:23 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:24 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:26 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:26 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:51:27 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:51:28 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:51:29 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:51:29 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:29 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:30 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:30 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:30 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:30 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:30 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:31 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:31 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:35 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:35 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:35 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:35 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:35 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:36 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:38 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:48 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:50 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:53 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:53 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:56 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:51:56 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:52:00 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java
+2026.02.04 23:52:00 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:00 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:00 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:01 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:06 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:07 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java
+2026.02.04 23:52:07 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.04 23:52:09 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java
+2026.02.04 23:52:09 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:52:09 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:52:11 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java
+2026.02.04 23:52:11 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.04 23:52:12 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java
+2026.02.04 23:52:12 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:52:12 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:52:14 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java
+2026.02.04 23:52:14 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
