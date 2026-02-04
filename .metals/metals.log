@@ -247,3 +247,54 @@ WARNING: Unmatched cancel notification for request id 201
 2026.02.04 23:52:12 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
 2026.02.04 23:52:14 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java
 2026.02.04 23:52:14 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
+2026.02.04 23:54:04 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java
+2026.02.04 23:54:04 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\domain\User.java. Using fallback presentation compiler.
+Feb 04, 2026 11:57:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.05 00:00:58 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:01:02 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:01:02 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:01:03 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:01:05 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:01:05 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java
+2026.02.05 00:01:05 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:17:54 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:17:54 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:18:03 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:18:05 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:18:05 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:19:30 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:20:06 INFO  no build target found for c:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:23:52 INFO  Shutting down server
+2026.02.05 00:23:52 INFO  Memory monitor stopped
+2026.02.05 00:23:52 INFO  shutting down Metals
+2026.02.05 00:23:53 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.02.05 00:23:52 INFO  Exiting server
+2026.02.05 00:24:49 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot' for client Visual Studio Code 1.108.2.
+2026.02.05 00:24:49 INFO  Memory monitor started
+2026.02.05 00:24:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.05 00:27:18 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.05 00:27:20 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.05 00:35:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.05 00:35:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+Feb 05, 2026 12:35:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.02.05 00:35:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.05 00:35:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.05 00:35:48 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java
+2026.02.05 00:35:48 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:35:48 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:38:41 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:39:35 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
