@@ -287,3 +287,14 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 2026.02.05 00:24:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2026.02.05 00:27:18 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
 2026.02.05 00:27:20 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\service\UserService.java. Using fallback presentation compiler.
+2026.02.05 00:35:40 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.05 00:35:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+Feb 05, 2026 12:35:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.02.05 00:35:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.05 00:35:42 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\main\java\com\example\agent\web\UserController.java. Using fallback presentation compiler.
+2026.02.05 00:35:48 WARN  no build target for: C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java
+2026.02.05 00:35:48 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:35:48 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:38:41 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\src\test\java\com\example\agent\web\UserControllerIT.java. Using fallback presentation compiler.
+2026.02.05 00:39:35 INFO  no build target found for C:\Users\willi\Desktop\AI_agent\lab_mcp_ai_agent_springboot\domain\User.java. Using fallback presentation compiler.
