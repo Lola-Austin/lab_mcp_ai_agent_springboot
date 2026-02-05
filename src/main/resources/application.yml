@@ -1,0 +1,12 @@
+github:
+  owner: ${GITHUB_OWNER:}
+  repo: ${GITHUB_REPO:}
+
+anthropic:
+  api-key: ${ANTHROPIC_API_KEY:}
+  model: ${ANTHROPIC_MODEL:claude-opus-4-20250514}
+  timeout-seconds: ${ANTHROPIC_TIMEOUT_SECONDS:60}
+
+mcp:
+  base-url: ${MCP_BASE_URL:http://localhost:3333}
+  path: ${MCP_PATH:/mcp}
